@@ -10,3 +10,7 @@ Short notes on things I ran into and want to remember. One problem per note, wit
 ## Python
 
 - [Old QASM files need `LEGACY_CUSTOM_INSTRUCTIONS`](python/qasm2-legacy-instructions.md)
+
+## Shell
+
+- [Git Bash rewrites Linux paths in `docker run`](shell/git-bash-path-conversion.md)
